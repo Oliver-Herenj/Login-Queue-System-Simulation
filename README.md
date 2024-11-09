@@ -16,9 +16,11 @@ This project simulates a login queue system that handles concurrent login attemp
    make
 
 2. Run the executable:
+   ```bash
    ./login_queue_system
 
 3. Clean up the build:
+   ```bash
    make clean
 
 
