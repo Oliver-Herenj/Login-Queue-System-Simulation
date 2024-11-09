@@ -23,7 +23,6 @@ This project simulates a login queue system that handles concurrent login attemp
    ```bash
    make clean
 
-
 Features
 Simulates a login queue system with concurrent users.
 Limits concurrent logins using a semaphore for synchronization.
